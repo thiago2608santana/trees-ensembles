@@ -1,3 +1,7 @@
+# Desnecessários
+Dados/
+myenv/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
