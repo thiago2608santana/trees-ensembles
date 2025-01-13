@@ -4,7 +4,15 @@
 
 **A disciplina é ministrada pelo professor Thiago Santana**
 
-## O objetivo geral da disciplina é:
+## Objetivo Geral
 
-Proporcionar uma compreensão dos princípios dos algoritmos baseados em árvores e em conjuntos (ensemble).
+Capacitar os alunos a compreender, implementar e aplicar modelos baseados em árvores de decisão e técnicas de agrupamento de modelos (ensemble) em problemas práticos de classificação e regressão.
+
+## Objetivos Específicos
+
+1. Compreender os fundamentos teóricos das árvores de decisão
+2. Implementar modelos de árvores usando Python
+3. Aprender a utilizar técnicas de ensemble learning como Bagging e Boosting
+4. Desenvolver habilidades práticas na aplicação e avaliação destes modelos
+5. Entender as vantagens e limitações de cada método
 
